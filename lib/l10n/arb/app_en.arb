@@ -1,0 +1,27 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "iHave": "I HAVE",
+    "@iHave": {
+        "description": "Label for the currency the user currently has"
+    },
+    "iWant": "I WANT",
+    "@iWant": {
+        "description": "Label for the currency the user wants to get"
+    },
+    "exchange": "Exchange",
+    "@exchange": {
+        "description": "Button text to perform the currency exchange"
+    },
+    "fiat": "FIAT",
+    "@fiat": {
+        "description": "Header title for fiat currencies modal"
+    },
+    "crypto": "CRYPTO",
+    "@crypto": {
+        "description": "Header title for crypto currencies modal"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+    {
+      "code": "TATUM-TRON-USDT",
+      "image": "TATUM-TRON-USDT",
+      "name": "Tether",
+      "symbol": "USDT",
+      "type": "CRYPTO"
+    },
+    {
+        "code": "BRL",
+        "image": "BRL",
+        "name": "Brazilian Real",
+        "symbol": "BRL",
+        "type": "FIAT"
+    },
+    {
+        "code": "COP",
+        "image": "COP",
+        "name": "Colombian Peso",
+        "symbol": "COP",
+        "type": "FIAT"
+    },
+    {
+        "code": "PEN",
+        "image": "PEN",
+        "name": "Perú",
+        "symbol": "PEN",
+        "type": "FIAT"
+    },
+    {
+        "code": "VES",
+        "image": "VES",
+        "name": "Venezuelan Bolívar",
+        "symbol": "VES",
+        "type": "FIAT"
+    }
+]    
+}

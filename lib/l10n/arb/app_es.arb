@@ -1,0 +1,27 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "iHave": "TENGO",
+    "@iHave": {
+        "description": "Etiqueta para la moneda que el usuario tiene actualmente"
+    },
+    "iWant": "QUIERO",
+    "@iWant": {
+        "description": "Etiqueta para la moneda que el usuario quiere obtener"
+    },
+    "exchange": "Cambiar",
+    "@exchange": {
+        "description": "Texto del botón para realizar el intercambio de monedas"
+    },
+    "fiat": "FIAT",
+    "@fiat": {
+        "description": "Título del encabezado para el modal de monedas fiat"
+    },
+    "crypto": "CRYPTO",
+    "@crypto": {
+        "description": "Título del encabezado para el modal de criptomonedas"
+    }
+}
