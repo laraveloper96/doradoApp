@@ -9,9 +9,9 @@ Una aplicación móvil moderna para conversión de monedas entre FIAT y CRYPTO, 
 ## 📱 Capturas de Pantalla
 
 <div align="center">
-  <img src="assets/screen_1.jpg" alt="Pantalla Principal" width="300"/>
-  <img src="assets/sheet_1.jpg" alt="Selector de Monedas" width="300"/>
-  <img src="assets/sheet_2.jpg" alt="Información de Conversión" width="300"/>
+  <img src="assets/screen1.png" alt="Pantalla Principal" width="300"/>
+  <img src="assets/sheet1.png" alt="Selector de Monedas" width="300"/>
+  <img src="assets/sheet2.png" alt="Información de Conversión" width="300"/>
 </div>
 
 *Interfaz principal de la aplicación mostrando la conversión de divisas, selector de monedas y detalles de conversión*
